@@ -1,0 +1,3 @@
+EMAIL_ADDRESS = ""
+EMAIL_APP_PASSWORD = ""
+EMAIL_DOMAIN = "@svecw.edu.in"
